@@ -1,0 +1,9 @@
+.size-img {
+    width: 350px;
+    height: 350px;
+   }
+.container-size-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

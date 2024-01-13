@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "nombre": "Naruto",
+        "descripcion": "Figura de acción de Naruto Uzumaki",
+        "imagen": "../../../assets/naruto.jpeg",
+        "precio": 19.99,
+        "stock": 2,
+        "categoria": "naruto"
+    },
+    {
+        "id": 2,
+        "nombre": "Sasuke",
+        "descripcion": "Figura de acción de Sasuke Uchiha",
+        "imagen": "../../../assets/sasuke.jpg",
+        "precio": 19.99,
+        "stock": 3,
+        "categoria": "naruto"
+    },
+    {
+        "id": 3,
+        "nombre": "Sakura",
+        "descripcion": "Figura de acción de Sakura Haruno",
+        "imagen": "../../../assets/sakura.png",
+        "precio": 19.99,
+        "stock": 30,
+        "categoria": "naruto"
+    },
+    {
+        "id": 4,
+        "nombre": "Hinata",
+        "descripcion": "Figura de acción de Hinata Hyuga",
+        "imagen": "../../../assets/hinata.jpg",
+        "precio": 19.99,
+        "stock": 10,
+        "categoria": "naruto"
+    },
+    {
+        "id": 5,
+        "nombre": "Kakashi",
+        "descripcion": "Figura de acción de Kakashi Hatake",
+        "imagen": "../../../assets/kakashi.jpg",
+        "precio": 19.99,
+        "stock": 5,
+        "categoria": "naruto"
+    },
+    {
+        "id": 7,
+        "nombre": "Tsunade",
+        "descripcion": "Figura de acción de Tsunade Senju",
+        "imagen": "../../../assets/tsunade.jpg",
+        "precio": 19.99,
+        "stock": 17,
+        "categoria": "naruto"
+    },
+    {
+        "id": 8,
+        "nombre": "Monkey D. Luffy",
+        "descripcion": "Figura de acción de Monkey D. Luffy ",
+        "imagen": "../../../assets/lufffy.jpg",
+        "precio": 19.99,
+        "stock": 8,
+        "categoria": "onepiece"
+    },
+    {
+        "id": 9,
+        "nombre": "Satoru Gojo",
+        "descripcion": "Figura de acción de Satoru Gojo",
+        "imagen": "../../../assets/gojo.jpg",
+        "precio": 19.99,
+        "stock": 19,
+        "categoria": "jujutsukaisen"
+    },
+    {
+        "id": 10,
+        "nombre": "Megumi",
+        "descripcion": "Figura de acción de Megumi",
+        "imagen": "../../../assets/megumi.jpg",
+        "precio": 19.99,
+        "stock": 4,
+        "categoria": "jujutsukaisen"
+    },
+    {
+        "id": 11,
+        "nombre": "Nanami",
+        "descripcion": "Figura de acción de Nanami",
+        "imagen": "../../../assets/nanami.png",
+        "precio": 19.99,
+        "stock": 12,
+        "categoria": "jujutsukaisen"
+    },
+    {
+        "id": 12,
+        "nombre": "Roronoa Zoro",
+        "descripcion": "Figura de acción de Roronoa Zoro",
+        "imagen": "../../../assets/zoro.jpg",
+        "precio": 19.99,
+        "stock": 9,
+        "categoria": "onepiece"
+    }
+]

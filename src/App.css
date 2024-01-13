@@ -1,0 +1,36 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  position: fixed;
+  top: 0;
+}
+
+.cartButton {
+  margin-left: 800px;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-color {
+  background-color: #20273F;
+}
+
+.text-color {
+  color: #E3A308;
+}
+
+.text-color:hover {
+  color: #f4e6c4;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 30px;
+  
+}
+
